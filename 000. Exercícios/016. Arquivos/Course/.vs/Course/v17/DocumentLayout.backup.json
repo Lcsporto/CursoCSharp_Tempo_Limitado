@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\000. Exerc\u00EDcios\\016. Arquivos\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC14B00-0412-490D-BF90-6C8CC3A95258}|Course\\Course.csproj|c:\\cursocsharp\\cursocsharp--tempo-limitado-\\000. exerc\u00EDcios\\016. arquivos\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC14B00-0412-490D-BF90-6C8CC3A95258}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CC14B00-0412-490D-BF90-6C8CC3A95258}|Course\\Course.csproj|c:\\cursocsharp\\cursocsharp--tempo-limitado-\\000. exerc\u00EDcios\\016. arquivos\\course\\course\\entities\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CC14B00-0412-490D-BF90-6C8CC3A95258}|Course\\Course.csproj|solutionrelative:course\\entities\\itens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Itens.cs",
+              "DocumentMoniker": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\000. Exerc\u00EDcios\\016. Arquivos\\Course\\Course\\Entities\\Itens.cs",
+              "RelativeDocumentMoniker": "Course\\Entities\\Itens.cs",
+              "ToolTip": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\000. Exerc\u00EDcios\\016. Arquivos\\Course\\Course\\Entities\\Itens.cs*",
+              "RelativeToolTip": "Course\\Entities\\Itens.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:33:59.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\000. Exerc\u00EDcios\\016. Arquivos\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\000. Exerc\u00EDcios\\016. Arquivos\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:06.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

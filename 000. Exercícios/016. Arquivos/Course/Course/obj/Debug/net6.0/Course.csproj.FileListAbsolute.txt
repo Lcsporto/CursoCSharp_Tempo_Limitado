@@ -1,0 +1,15 @@
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\bin\Debug\net6.0\Course.exe
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\bin\Debug\net6.0\Course.deps.json
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\bin\Debug\net6.0\Course.runtimeconfig.json
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\bin\Debug\net6.0\Course.dll
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\bin\Debug\net6.0\Course.pdb
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.sourcelink.json
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.dll
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\refint\Course.dll
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.pdb
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\Course.genruntimeconfig.cache
+C:\CursoCSharp\CursoCSharp--Tempo-Limitado-\000. Exercícios\016. Arquivos\Course\Course\obj\Debug\net6.0\ref\Course.dll
