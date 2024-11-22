@@ -35,9 +35,10 @@ namespace Course
 
                     using (StreamWriter sw = File.AppendText(targetFile))
                     {
+                        sw.WriteLine("Nome;Preco Total");
                         foreach (Itens item in list)
                         {
-                            sw.WriteLine($"{item.Name},{item.TotalPrice().ToString("F2", CultureInfo.InvariantCulture)} ");
+                            sw.WriteLine($"{item.Name};{item.TotalPrice().ToString("F2", CultureInfo.InvariantCulture)} ");
                         }
                     }
 

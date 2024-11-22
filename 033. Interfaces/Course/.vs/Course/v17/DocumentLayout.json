@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EA14255-F369-4DBC-8704-E6580F6EAC4F}|Course\\Course.csproj|c:\\cursocsharp\\cursocsharp--tempo-limitado-\\033. interfaces\\course\\course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EA14255-F369-4DBC-8704-E6580F6EAC4F}|Course\\Course.csproj|solutionrelative:course\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 567,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Course\\Course\\Program.cs",
+              "RelativeDocumentMoniker": "Course\\Program.cs",
+              "ToolTip": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Course\\Course\\Program.cs",
+              "RelativeToolTip": "Course\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T23:19:28.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
