@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução\\Course\\Course\\Course.csproj",
+      "projectUniqueName": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução com Interface\\Course\\Course\\Course.csproj",
       "projectName": "Course",
-      "projectPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução\\Course\\Course\\Course.csproj",
+      "projectPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução com Interface\\Course\\Course\\Course.csproj",
       "packagesPath": "C:\\Users\\lucas.porto\\.nuget\\packages\\",
-      "outputPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução\\Course\\Course\\obj\\",
+      "outputPath": "C:\\CursoCSharp\\CursoCSharp--Tempo-Limitado-\\033. Interfaces\\Solução com Interface\\Course\\Course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
